@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "746536557817",
+    "firebase_url": "https://quizexample-23d30.firebaseio.com",
+    "project_id": "quizexample-23d30",
+    "storage_bucket": "quizexample-23d30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746536557817:android:6cf6529b9bdac653861628",
+        "android_client_info": {
+          "package_name": "apex23.flutterapp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746536557817-77vdogol23rjc85vu8gm9h0nfgkngqpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbwDpv5R8WHpxhawMbR_GaXT_Z0kk178E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746536557817-77vdogol23rjc85vu8gm9h0nfgkngqpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
