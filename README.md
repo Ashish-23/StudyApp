@@ -1,7 +1,8 @@
-# flutterapp3
+# StudyTime
 
-A new Flutter application.
+StudyTime App is built in flutter. App design is based on StudyTime App designed by Ashish-23 UI. This app is dynamic. I mean, This is a UI design and backend too. I used firebase as backend. In this app you can upload daily current affairs, conduct quizes, exams and show result in ring chart form. You can also apload previous year question in pdf formate.
 
+ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
